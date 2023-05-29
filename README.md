@@ -10,7 +10,7 @@ In this project I will be building various recommendation systems:
 - Similarity-Based Collaborative filtering
 - Matrix Factorization Based Collaborative Filtering
 
-I ambgoing to use the **ratings** dataset. 
+I am going to use the **ratings** dataset which I have uploaded in csv format. 
 
 
 ## **Dataset**
